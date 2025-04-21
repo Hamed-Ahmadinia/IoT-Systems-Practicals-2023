@@ -38,6 +38,5 @@ Welcome to the repository for the "Introduction to IoT-Based Systems" course, wh
 
 For any questions or collaboration opportunities, please contact me at [hamed.ahmadinia@aol.com](mailto:hamed.ahmadinia@aol.com).
 
-## License
-
-This repository is licensed under the MIT License. Feel free to use the code and resources, but please provide appropriate attribution.
+---
+© 2025 Hamed Ahmadinia /  CC BY-NC 4.0
