@@ -1,5 +1,7 @@
 # Introduction to IoT-Based Systems - Assignments 2023
 
+[![DOI](https://zenodo.org/badge/850335990.svg)](https://doi.org/10.5281/zenodo.15254885)
+
 Welcome to the repository for the "Introduction to IoT-Based Systems" course, where you'll find all the assignments I completed during the course in 2023. This repository serves as a portfolio of my work, showcasing my understanding and application of key concepts in IoT systems.
 
 [Open Badge](https://openbadgefactory.com/v1/assertion/b7d8700be4a595b163c1a528e1b87082da387add)
